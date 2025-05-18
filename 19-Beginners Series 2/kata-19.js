@@ -6,11 +6,6 @@ function sumNumbers(a,b){
     for(let i = min; i <= max; i++){
         result += i;
     };
-
-    if(a === b){
-        result = a;
-    }
-
     return result
 }
 
