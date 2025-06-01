@@ -1,6 +1,6 @@
 function sumLow(nums){
     let min1 = Infinity;
-  let min2 = Infinity;
+    let min2 = Infinity;
 
   for (let i = 0; i < nums.length; i++) {
     let current = nums[i];
