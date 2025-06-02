@@ -1,4 +1,4 @@
-const findNeedle = require('./kata-39.js');
+const findNeedle = require('./kata-38.js');
 
 test('should find the needle at correct position', () => {
   expect(findNeedle(["hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk"]))
