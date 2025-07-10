@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "commonjs",
   "scripts": {
-    "test": "jest"
+    "test": "jest --runInBand"
   },
   "devDependencies": {
     "jest": "^30.0.2"
