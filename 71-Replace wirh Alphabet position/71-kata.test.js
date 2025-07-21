@@ -1,4 +1,4 @@
-const alphabetPosition = require('./alphabetPosition');
+const alphabetPosition = require('./71-kata.js');
 
 describe('alphabetPosition', () => {
     test('should convert each letter to its position in the alphabet', () => {
