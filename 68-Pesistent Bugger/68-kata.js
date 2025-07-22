@@ -9,7 +9,6 @@ function persistence(num) {
       resultado *= Number(digits[i]);
     }
 
-    console.log(`Resultado: ${resultado}`);
 
     num = resultado;
     count++;
