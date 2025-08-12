@@ -1,0 +1,25 @@
+Opposites Attract
+Timmy y Sarah piensan que están enamorados, pero donde viven solo lo sabrán cuando cada uno elija una flor.
+Si una de las flores tiene un número par de pétalos y la otra tiene un número impar de pétalos, eso significa que están enamorados.
+
+Tarea:
+Escribe una función que reciba el número de pétalos de cada flor y devuelva true si están enamorados y false si no lo están.
+
+Ejemplos:
+
+plaintext
+Copiar
+Editar
+lovefunc(1, 4)  --> true
+lovefunc(2, 2)  --> false
+lovefunc(0, 3)  --> true
+Parámetros:
+
+flower1 (int): número de pétalos de la primera flor.
+
+flower2 (int): número de pétalos de la segunda flor.
+
+Condición para true:
+
+Uno de los números es par y el otro es impar.
+
